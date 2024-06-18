@@ -34,7 +34,7 @@ The dataset used for training and testing the model is the "tips" dataset from s
 
 4. **Model Saving:**
 
-    - The best performing SVR model is saved using pickle for future use.
+    - The best performing SVR model is saved using pickle for future use and integrated into a web application.
 
 # RandomForest Travel Product Prediction
 
@@ -68,4 +68,4 @@ The project utilizes a dataset named "Travel". This dataset likely contains info
 5. **Model Evaluation:** The trained model is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC score.
 6. **Visualization:**  An ROC curve is generated to visualize the model's performance across different thresholds.
 
-### Both projects aim to demonstrate the application of machine learning techniques for solving real-world problems.
+### Both projects demonstrate the application of machine learning techniques for solving real-world problems.
