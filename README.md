@@ -34,7 +34,7 @@ The dataset used for training and testing the model is the "tips" dataset from s
 
 4. **Model Saving:**
 
-    - The best performing SVR model is saved using pickle for future use and integrated into a web application using Flask Library.
+    - The best performing SVR model is saved using pickle for future use and integrated into a web application using Flask library.
 
 # RandomForest Travel Product Prediction
 
